@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @claudio-cordova-estrada
-- 👀 I’m interested in web developing! Also looking foward to learn about AI, and how to implent it with philosophy.
-- 🌱 I’m currently learning the basics! 
-- 💞️ I’m looking to collaborate on any project where I could help! :D
-- 📫 How to reach me: my gmail, claudionicolascordova@gmail.com
+Un gusto, soy un desarrollador en su último semestre de estudios dentro de DuocUC. 
+
+Mis intereses profesionales se encuentran inclinados hacia el desarrollo de proyectos (hacer código) y el entrenamiento de modelos de aprendizaje.
+
+Mi correo personal en caso de querer contactarme es...
+claudionicolascordova@gmail.com
 
 <!---
 claudio-cordova-estrada/claudio-cordova-estrada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
