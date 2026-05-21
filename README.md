@@ -3,6 +3,7 @@ Un gusto, soy un desarrollador en su último semestre de estudios dentro de Duoc
 Mis intereses profesionales se encuentran inclinados hacia el desarrollo de proyectos (hacer código) y el entrenamiento de modelos de aprendizaje.
 
 Mi correo personal en caso de querer contactarme es...
+
 claudionicolascordova@gmail.com
 
 <!---
