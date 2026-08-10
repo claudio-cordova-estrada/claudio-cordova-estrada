@@ -1,9 +1,8 @@
-Un gusto, soy un desarrollador en su último semestre de estudios dentro de DuocUC. 
+Un gusto, soy desarrollador titulado en Ingeniería en Informática dentro de Duoc UC. 
 
-Mis intereses profesionales se encuentran inclinados hacia el desarrollo de proyectos (hacer código) y el entrenamiento de modelos de aprendizaje.
+Mis intereses profesionales se encuentran inclinados hacia el desarrollo de proyectos.
 
 Mi correo personal en caso de querer contactarme es...
-
 claudionicolascordova@gmail.com
 
 <!---
