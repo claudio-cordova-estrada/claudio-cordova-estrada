@@ -1,9 +1,24 @@
+### Sobre mí
+
 Un gusto, soy desarrollador titulado en Ingeniería en Informática dentro de Duoc UC. 
 
-Mis intereses profesionales se encuentran inclinados hacia el desarrollo de proyectos.
+Mis intereses profesionales se encuentran inclinados hacia el desarrollo de aplicaciones y el data science.
+
+Mis habilidades son
+- Desarrollo: Java, C#, Python
+- Bases de datos: PL/SQL, MongoDB
+- DevOps y Cloud: Git, Google Cloude (GCP), Agile/Scrum
 
 Mi correo personal en caso de querer contactarme es...
 claudionicolascordova@gmail.com
+
+### Proyectos
+
+Entre mis proyectos destacados se encuentran
+- [Proyecto de Capstone](https://github.com/claudio-cordova-estrada/duocCapstoneFinalProject): Con este proyecto terminé cerrando mi carrera. El proyecto se divide en 3 fases, con su respectiva documentación. El objetivo del mismo era realizar una to-do app la cual permitiese al usuario con solo un botón planificar su semana de forma automática. El objetivo fue logrado.
+- [LegionDelMal](https://github.com/claudio-cordova-estrada/legionDelMalCursoGit): Este repositorio fue el que utilice para aprender a utilizar Git en el curso de Fernano Herrera.
+
+![Último commit](https://img.shields.io/github/last-commit/claudio-cordova-estrada/claudio-cordova-estrada)
 
 <!---
 claudio-cordova-estrada/claudio-cordova-estrada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
