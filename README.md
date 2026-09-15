@@ -1,6 +1,6 @@
 ### Sobre mí
 
-Un gusto, soy desarrollador titulado en Ingeniería en Informática dentro de Duoc UC. 
+Un gusto, soy desarrollador titulado en Ingeniería en Informática en Duoc UC. 
 
 Mis intereses profesionales se encuentran inclinados hacia el desarrollo de aplicaciones y el data science.
 
@@ -16,7 +16,7 @@ claudionicolascordova@gmail.com
 
 Entre mis proyectos destacados se encuentran
 - [Proyecto de Capstone](https://github.com/claudio-cordova-estrada/duocCapstoneFinalProject): Con este proyecto terminé cerrando mi carrera. El proyecto se divide en 3 fases, con su respectiva documentación. El objetivo del mismo era realizar una to-do app la cual permitiese al usuario con solo un botón planificar su semana de forma automática. El objetivo fue logrado.
-- [LegionDelMal](https://github.com/claudio-cordova-estrada/legionDelMalCursoGit): Este repositorio fue el que utilice para aprender a utilizar Git en el curso de Fernano Herrera.
+- [LegionDelMal](https://github.com/claudio-cordova-estrada/legionDelMalCursoGit): Este repositorio fue el que utilice para aprender a utilizar Git en el curso de Fernando Herrera.
 - [Creación de modelos no supervisados para el análisis de patrones en los datos de compra de los usuarios](https://github.com/claudio-cordova-estrada/MLRepositorio/tree/main): Este proyecto fue uno hecho dentro un curso de Machine Learning en el cual aprendí a realizar modelos no supervisados. Se utilizó pandas, numpy, matplotlib, sklearn, seaborn, entre otras librerías.
 
 <!---
