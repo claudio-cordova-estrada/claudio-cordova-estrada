@@ -16,7 +16,6 @@ claudionicolascordova@gmail.com
 
 Entre mis proyectos destacados se encuentran
 - [Proyecto de Capstone](https://github.com/claudio-cordova-estrada/duocCapstoneFinalProject): Aplicación de escritorio multiplataforma en C# con Avalonia UI, siguiendo patrón MVVM. Proyecto realizado para el cierre de la carrera.
-- [LegionDelMal](https://github.com/claudio-cordova-estrada/legionDelMalCursoGit): Material utilizado para el aprendizaje de la herramienta de Git
 - [Creación de modelos no supervisados para el análisis de patrones en los datos de compra de los usuarios](https://github.com/claudio-cordova-estrada/MLRepositorio/tree/main): Aplicación de CRISP-DM para la creación de modelos de aprendizaje no supervisado. Se utilizó pandas, numpy, matplotlib, sklearn, seaborn, entre otras librerías.
 
 <!---
