@@ -15,9 +15,9 @@ claudionicolascordova@gmail.com
 ### Proyectos
 
 Entre mis proyectos destacados se encuentran
-- [Proyecto de Capstone](https://github.com/claudio-cordova-estrada/duocCapstoneFinalProject): Con este proyecto terminé cerrando mi carrera. El proyecto se divide en 3 fases, con su respectiva documentación. El objetivo del mismo era realizar una to-do app la cual permitiese al usuario con solo un botón planificar su semana de forma automática. El objetivo fue logrado.
-- [LegionDelMal](https://github.com/claudio-cordova-estrada/legionDelMalCursoGit): Este repositorio fue el que utilice para aprender a utilizar Git en el curso de Fernando Herrera.
-- [Creación de modelos no supervisados para el análisis de patrones en los datos de compra de los usuarios](https://github.com/claudio-cordova-estrada/MLRepositorio/tree/main): Este proyecto fue uno hecho dentro un curso de Machine Learning en el cual aprendí a realizar modelos no supervisados. Se utilizó pandas, numpy, matplotlib, sklearn, seaborn, entre otras librerías.
+- [Proyecto de Capstone](https://github.com/claudio-cordova-estrada/duocCapstoneFinalProject): Aplicación de escritorio multiplataforma en C# con Avalonia UI, siguiendo patrón MVVM. Proyecto realizado para el cierre de la carrera.
+- [LegionDelMal](https://github.com/claudio-cordova-estrada/legionDelMalCursoGit): Material utilizado para el aprendizaje de la herramienta de Git
+- [Creación de modelos no supervisados para el análisis de patrones en los datos de compra de los usuarios](https://github.com/claudio-cordova-estrada/MLRepositorio/tree/main): Aplicación de CRISP-DM para la creación de modelos de aprendizaje no supervisado. Se utilizó pandas, numpy, matplotlib, sklearn, seaborn, entre otras librerías.
 
 <!---
 claudio-cordova-estrada/claudio-cordova-estrada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
